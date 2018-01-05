@@ -13,7 +13,7 @@
    <children>
       <VBox layoutX="97.0" layoutY="55.0" prefHeight="200.0" prefWidth="100.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
          <children>
-            <Label text="Misc Settings">
+            <Label text="Misc scripts.CombatSettings">
                <VBox.margin>
                   <Insets left="15.0" top="10.0" />
                </VBox.margin>

@@ -175,7 +175,7 @@
                               <Insets left="15.0" top="10.0" />
                            </VBox.margin>
                         </Label>
-                        <CheckBox fx:id="useAsyncCameraCheckbox" disable="true" mnemonicParsing="false" text="Use Async Camera">
+                        <CheckBox fx:id="useAsyncCameraCheckbox" mnemonicParsing="false" text="Use Async Camera">
                            <VBox.margin>
                               <Insets left="20.0" top="10.0" />
                            </VBox.margin>
